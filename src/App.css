@@ -1,0 +1,38 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 60px;
+  }
+  
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+#myCanvas {
+  background: #79b9e7;
+  margin-top: 20px;
+}
+
+.btn-outline-primary {
+  border-radius: 10px;
+  border-color: #007dc6;
+  margin-right: 20px;
+}
+
+.btn-outline-primary:hover {
+  border-radius: 10px;
+  background-color: #007dc6;
+}
+
+label {
+  color: #f47421;
+}
+
+.form-control {
+  background-color: #e7f0f7;
+}
